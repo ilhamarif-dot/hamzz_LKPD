@@ -1,0 +1,75 @@
+# hamzz_LKPD
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+            <table border="0" width="75%" height="100" bgcolor="#00FFFF" align="center">
+                <tr>
+                    <td align="center"><font face="times new roman" size="6"> JELAJAH WISATA INDONESIA </font></td>
+                </tr>
+                <tr>
+                    <td align="center"><font face="tahoma" size="3"> Temukan Keindahan Alam dan Budaya Indonesia </font></td>
+                </tr>
+            </table>
+                <td align="center" colspan="1" height="90%">
+                    <table border="0" width="75%" align="center">
+                        <tr>
+                            <th bgcolor="#FDFBD4"> Beranda </th>
+                            <th bgcolor="#FDFBD4"> Wisata </th>
+                            <th bgcolor="#FDFBD4"> Galeri </th>
+                        </tr>
+                </td>
+                </table>
+                <td align="center" colspan="1" height="20%">
+                <tr>
+                    <h3 align="center">🏡Beranda</h3>
+                </tr>
+                <tr>
+                    <p align="center"> Selamat datang di website Jelajah Wisata Indonesia website ini berisi informasi pengetahuan mengetahui beberapa tempat wisata yang ada di Indonesia.</p>
+                    <p align="center"> Indonesia memiliki banyak sekali destinasi wisata,mulai dari pegunungan,pantai,laut hingga wisata budaya</p>
+            </tr>
+                <hr size="1" width="75%" align="center" color="black">
+                <tr>
+                    <h3 align="center"> 🌍 Destinasi Wisata</h3>
+                </tr>
+                <tr>
+                    <p align="center"> Berikut adalah objek wisata menarik di Jawa Timur </p>
+                </tr>
+                <tr>
+                    <table border="1" cellpading="18" cellspacing="8" width="100" align="center">
+                <td align="center">
+                    <img src="d:\96d60356-f54f-4b9d-a5af-4cbc8c24f3c7_43.jpeg" width="312">
+                    <h3 align="center">Gunung Bromo</h3>
+                    <p>Gunung Bromo merupakan salah satu tempat wisata terkenal yang berada di Jawa Timur</p>
+                </td>
+                <td align="center">
+                    <img src="d:\Kawah-Ijen-Volcano_-The-Mount-Ijen-Crater-Lake-Blue-Fire-In-Banyuwangi-Indonesia.png" width="312">
+                    <h3 align="center">Kawah Ijen</h3>
+                    <p>Kawah Ijen merupakan salah tempat Wisata terkenal yang berada di Jawa Timur</p>
+                </td>
+                <td align="center">
+                    <img src="d:\a-must-see-waterfall.jpg" width="312">
+                    <h3 align="center">Air Terjun Coban Rondo </h3>
+                    <p>Air Terjun Coban Rondo merupakan salah satu tempat wisata terkenal yang berada di Jawa Timur</p>
+                </td>
+                </tr>
+            </table>
+                <hr size="1" width="75%" align="center" color="black">
+                <center>
+                    <h3 align="center">🎶Musik Nusantara</h3>
+                    <p align="center">Silahkan Dengarkan musik sambil menikmati informasi wisata Indonesia</p>
+                    <audio controls>
+                        <source src="d:\Element - Rahasia Hati (HD) - (64 Kbps).mp3" align="center">
+                    </audio>
+                </center>
+                <hr size="1" width="75%" align="center" color="black">
+                <center>
+                    <h3 align="center">🌒Wonderland Indonesia</h3>
+                    <p align="center">Silahkan melihat video berikut sambil menikmati informasi wisata Indonesia</p>
+                    <video width="300" autoplay muted controls>
+                        <source src="c:\Libraries\Downloads\246151_medium.mp4">
+                    </video>
+                </center>
+        </body>
+    </head>
+</html>
